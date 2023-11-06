@@ -36,5 +36,5 @@
     </a>
 </div>
   
-![Snake animation](https://github.com/Cleuvin-dev/Cleuvin-dev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Cleuvin-dev/Cleuvin-dev/blob/output/github-contribution-grid-snake.svg)
     

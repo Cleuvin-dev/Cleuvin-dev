@@ -1,9 +1,9 @@
-### Hi there 👋
+### Não é apenas Codar, é a realização de um sonho... Cléuvin Aqui! 👋
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Cleuvin-dev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleuvin-dev&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=Cleuvin-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleuvin-dev&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
 
@@ -18,8 +18,9 @@
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" alt="Csharp-icon" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-    <img align="center" height="30" width="40" alt="Java-icon" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+   <!-- <img align="center" height="30" width="40" alt="Csharp-icon" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> -->
+    <h2>Com foco em </h2>
+    <img align="center" height="80" width="90" alt="Java-icon" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
    </div>
 
 <div>

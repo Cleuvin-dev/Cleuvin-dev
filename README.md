@@ -35,6 +35,4 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
-![snake gif](https://github.com/Cleuvin-dev/Cleuvin-dev/blob/output/github-contribution-grid-snake.svg)
     

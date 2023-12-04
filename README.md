@@ -17,12 +17,13 @@
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <!-- <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
    <!-- <img align="center" height="30" width="40" alt="Csharp-icon" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> -->
-    <h2>Com foco em </h2>
     <img align="center" height="80" width="90" alt="Java-icon" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+    <h2>Com foco em </h2>
+    <img align="center" height="100" width="120" alt="Java-icon" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
    </div>
-
+   
 <div>
      <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: cleuvin.dev@gmail.com">

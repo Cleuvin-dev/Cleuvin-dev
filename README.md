@@ -18,11 +18,12 @@
     <img align="center" height="30" width="30" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="28" width="28" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <!-- <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
-   <!-- <img align="center" height="30" width="40" alt="Csharp-icon" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> -->
     <img align="center" height="60" width="70" alt="Java-icon" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
     <img align="center" height="50" width="60" alt="Java-icon" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
     <img align="center" height="60" width="70" alt="Java-icon" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
-    <img align="center" height="50" width="60" alt="Java-icon" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">    
+    <img align="center" height="30" width="40" alt="Csharp-icon" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+    <img align="center" height="30" width="40" alt="Csharp-icon" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">    
+   <!-- <img align="center" height="50" width="60" alt="Java-icon" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">  -->  
    </div>
    
 <div>
